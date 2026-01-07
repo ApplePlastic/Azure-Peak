@@ -37677,10 +37677,10 @@
 /turf/open/floor/rogue/tile,
 /area/rogue/indoors/inq)
 "jnI" = (
-/obj/machinery/light/rogue/torchholder/l,
 /obj/structure/bars/grille{
 	max_integrity = 2000
 	},
+/obj/machinery/light/rogue/torchholder/l,
 /turf/open/transparent/openspace,
 /area/rogue/outdoors/rtfield)
 "jnM" = (
@@ -69922,6 +69922,15 @@
 /obj/machinery/loom,
 /turf/open/floor/rogue/ruinedwood/spiral,
 /area/rogue/under/underdark/north)
+"rjE" = (
+/obj/effect/decal/shadow_floor{
+	dir = 8
+	},
+/obj/machinery/light/rogue/torchholder/l{
+	dir = 8
+	},
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/outdoors/rtfield)
 "rjF" = (
 /obj/structure/closet/crate/roguecloset,
 /obj/item/clothing/suit/roguetown/shirt/tunic,
@@ -309766,7 +309775,7 @@ rxe
 mQx
 mQx
 mQx
-bbg
+rjE
 mQx
 mQx
 mQx
@@ -424123,7 +424132,7 @@ aBB
 aBB
 aBB
 aBB
-aBB
+qgR
 aBB
 aBB
 aBB
@@ -424575,7 +424584,7 @@ aBB
 aBB
 aBB
 aBB
-qgR
+vqH
 aBB
 aBB
 aBB
@@ -425476,13 +425485,13 @@ aBB
 aBB
 aBB
 aBB
-aBB
-aBB
-aBB
-vqH
-aBB
-aBB
-aBB
+vHE
+ord
+ord
+ora
+ord
+ord
+ago
 aBB
 aBB
 aBB
@@ -425928,13 +425937,13 @@ aBB
 aBB
 aBB
 aBB
-vHE
-ord
-ord
-ora
-ord
-ord
-ago
+aBB
+aBB
+aBB
+aBB
+aBB
+aBB
+aBB
 aBB
 aBB
 aBB
@@ -539836,7 +539845,7 @@ aBB
 aBB
 aBB
 aBB
-aBB
+mzq
 aBB
 aBB
 aBB
@@ -540737,13 +540746,13 @@ aBB
 aBB
 aBB
 aBB
-aBB
-aBB
-aBB
-mzq
-aBB
-aBB
-aBB
+avc
+aqq
+aqq
+jjR
+aqq
+aqq
+ago
 aBB
 aBB
 aBB
@@ -541189,13 +541198,13 @@ aBB
 aBB
 aBB
 aBB
-avc
-aqq
-aqq
-jjR
-aqq
-aqq
-ago
+aBB
+aBB
+aBB
+aBB
+aBB
+aBB
+aBB
 aBB
 aBB
 aBB
